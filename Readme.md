@@ -24,6 +24,10 @@ The repository includes three main parts:
 
 ## Usage
 
+### Prerequisites
+
+- CodeV (Optical Design Software): Version 11.0 is required for the optical design simulations and analyses. Ensure that you have a valid license and the software is properly installed on your system.
+
 ### Dataset Generation for GI Method
 
 - To generate the dataset for the GI method, run: `dataset_generation_GI.m`. 
